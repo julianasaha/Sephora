@@ -14,7 +14,8 @@
         * [Exploratory Data Analysis](#exploratory-data-analysis)
         * [Text Analysis](#text-analysis)
         * [Modeling](#modeling)
-   * [Conclusion](#conclusions)
+   * [Observations](#observations)
+   * [Conclusion](#conclusion)
         * [Recommendations](#recommendations)
         * [Further Steps](#further-steps)
    
